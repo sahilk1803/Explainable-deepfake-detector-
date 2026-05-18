@@ -1,0 +1,7 @@
+﻿flask
+streamlit
+torch
+torchvision
+opencv-python
+numpy
+werkzeug
